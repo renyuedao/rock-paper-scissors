@@ -8,6 +8,7 @@ public class DesktopGame {
 	public static void main(String[] args) {
 		System.out.println("Game start");
 		System.out.println("dev1");
+		System.out.println("Dev2");
 		String prompt = "Will it be rock, paper or scissors?";
 		Score score = new Score();
 		java.util.Vector<GameSummary> history = new java.util.Vector<GameSummary>();
